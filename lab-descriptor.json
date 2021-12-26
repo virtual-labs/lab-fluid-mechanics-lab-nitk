@@ -1,0 +1,23 @@
+
+{
+    "broadArea": {
+        "name": "Civil Engineering",
+        "link": "https://www.vlab.co.in/broad-area-civil-engineering"
+    },
+    "lab": "",
+    "deployLab": true,
+    "phase": 2,
+    "collegeName": "",
+    "baseUrl": "fm-nitk.vlabs.ac.in",
+    "introduction": "",
+    "experiments": [],
+    "targetAudience": {
+        "UG": [],
+        "PG": []
+    },
+    "objective": "",
+    "courseAlignment": {
+        "description": "",
+        "universities": []
+    }
+}
