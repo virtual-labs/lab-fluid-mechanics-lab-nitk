@@ -7,17 +7,17 @@
     "lab": "Fluid Mechanics",
     "deployLab": true,
     "phase": 2,
-    "collegeName": "NITK",
+    "collegeName": "NITS",
     "baseUrl": "fm-nitk.vlabs.ac.in",
-    "introduction": "",
+    "introduction": "Fluid mechanics is the branch of physics that deals with the study of all fluids under static and dynamic situations. Fluid mechanics can be divided into fluid statics, the study of fluids at rest; and fluid dynamics, the study of the effect of forces on fluid motion. This study area deals with many and diversified problems such as surface tension, fluid statics, flow in enclose bodies, or flow round bodies (solid or otherwise), flow stability, etc. It is important to understand the functioning principles and characteristics of fluid motions from an engineering point of view.",
     "experiments": [],
     "targetAudience": {
-        "UG": [],
-        "PG": []
+        "UG": ["This course is primarily for Sophomore in Civil or Mechanical or related engineering field."],
+        "PG": ["This course is primarily for students pursuing a Bachelor's program in Civil or Mechanical or related engineering field."]
     },
     "objective": "",
     "courseAlignment": {
-        "description": "",
-        "universities": []
+        "description": "Following are the courses in which one can come across the theory connected to the experiments in this lab",
+        "universities": ["Fluid Mechanics", "Hydraulics", "Fluid Machinery"]
     }
 }
