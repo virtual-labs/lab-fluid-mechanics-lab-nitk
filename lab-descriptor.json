@@ -1,60 +1,66 @@
-
 {
-    "broadArea": {
-        "name": "Civil Engineering",
-        "link": "https://www.vlab.co.in/broad-area-civil-engineering"
-    },
-    "lab": "Fluid Mechanics",
-    "display_lab_name": "Fluid Mechanics Lab",
-    "deployLab": true,
-    "phase": 2,
-    "collegeName": "NITS",
-    "baseUrl": "fm-nitk.vlabs.ac.in",
-    "introduction": "Fluid mechanics is the branch of physics that deals with the study of all fluids under static and dynamic situations. Fluid mechanics can be divided into fluid statics, the study of fluids at rest; and fluid dynamics, the study of the effect of forces on fluid motion. This study area deals with many and diversified problems such as surface tension, fluid statics, flow in enclose bodies, or flow round bodies (solid or otherwise), flow stability, etc. It is important to understand the functioning principles and characteristics of fluid motions from an engineering point of view.",
-    "experiments": [
-        {
+  "broadArea": {
+    "name": "Civil Engineering",
+    "link": "https://www.vlab.co.in/broad-area-civil-engineering"
+  },
+  "lab": "Fluid Mechanics",
+  "display_lab_name": "Fluid Mechanics Lab",
+  "deployLab": true,
+  "phase": 2,
+  "collegeName": "NITS",
+  "baseUrl": "fm-nitk.vlabs.ac.in",
+  "introduction": "Fluid mechanics is the branch of physics that deals with the study of all fluids under static and dynamic situations. Fluid mechanics can be divided into fluid statics, the study of fluids at rest; and fluid dynamics, the study of the effect of forces on fluid motion. This study area deals with many and diversified problems such as surface tension, fluid statics, flow in enclose bodies, or flow round bodies (solid or otherwise), flow stability, etc. It is important to understand the functioning principles and characteristics of fluid motions from an engineering point of view.",
+  "experiments": [
+    {
       "name": "Calibration of V notch",
       "short-name": "calibration-of-v-notch",
       "repo": "https://github.com/virtual-labs/exp-calibration-of-v-notch-nitk",
-      "tag": "v1.0.0",
+      "tag": "v0.0.0",
       "deploy": true
-        },
-        {
+    },
+    {
       "name": "Calibration of Rectangular notch",
       "short-name": "calibration-rectangular-notch",
       "repo": "https://github.com/virtual-labs/exp-calibration-rectangular-notch-nitk",
-      "tag": "v1.0.0",
+      "tag": "v0.0.0",
       "deploy": true
-        },
-        {
+    },
+    {
       "name": "Impact of jet",
       "short-name": "impact-of-jet",
       "repo": "https://github.com/virtual-labs/exp-impact-of-jet-nitk",
-      "tag": "v1.0.0",
+      "tag": "v0.0.0",
       "deploy": true
-        },
-        {
+    },
+    {
       "name": "Friction In pipes",
       "short-name": "friction-in-pipes",
       "repo": "https://github.com/virtual-labs/exp-friction-in-pipes-nitk",
-      "tag": "v1.0.0",
+      "tag": "v0.0.0",
       "deploy": true
-        },
-        {
+    },
+    {
       "name": "Venturimeter",
       "short-name": "venturimeter",
       "repo": "https://github.com/virtual-labs/exp-venturimeter-nitk",
-      "tag": "v1.0.0",
+      "tag": "v0.0.0",
       "deploy": true
-        }
-                   ],
-    "targetAudience": {
-        "UG": ["This course is primarily for Sophomore in Civil or Mechanical or related engineering field."],
-        "PG": ["This course is primarily for students pursuing a Bachelor's program in Civil or Mechanical or related engineering field."]
-    },
-    "objective": "The main objective of the lab is to understand the behavior of fluids under various forces at different atmospheric conditions and to determine the various fluid flow parameters in pipes and open channels.",
-    "courseAlignment": {
-        "description": "Following are the courses in which one can come across the theory connected to the experiments in this lab",
-        "universities": ["Fluid Mechanics", "Hydraulics", "Fluid Machinery"]
     }
+  ],
+  "targetAudience": {
+    "UG": [
+      "This course is primarily for Sophomore in Civil or Mechanical or related engineering field."
+    ],
+    "PG": [
+      "This course is primarily for students pursuing a Bachelor's program in Civil or Mechanical or related engineering field."
+    ]
+  },
+  "objective": "The main objective of the lab is to understand the behavior of fluids under various forces at different atmospheric conditions and to determine the various fluid flow parameters in pipes and open channels.",
+  "courseAlignment": {
+    "description": "Following are the courses in which one can come across the theory connected to the experiments in this lab",
+    "universities": ["Fluid Mechanics", "Hydraulics", "Fluid Machinery"]
+  },
+  "exp_name": "Venturimeter",
+  "exp_short_name": "venturimeter",
+  "version": "v0.1.0"
 }
