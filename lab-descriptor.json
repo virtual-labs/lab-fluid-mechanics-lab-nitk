@@ -4,10 +4,10 @@
         "name": "Civil Engineering",
         "link": "https://www.vlab.co.in/broad-area-civil-engineering"
     },
-    "lab": "",
+    "lab": "Fluid Mechanics",
     "deployLab": true,
     "phase": 2,
-    "collegeName": "",
+    "collegeName": "NITK",
     "baseUrl": "fm-nitk.vlabs.ac.in",
     "introduction": "",
     "experiments": [],
