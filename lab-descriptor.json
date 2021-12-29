@@ -4,7 +4,7 @@
     "link": "https://www.vlab.co.in/broad-area-civil-engineering"
   },
   "lab": "Fluid Mechanics",
-  "display_lab_name": "Fluid Mechanics Lab",
+  "lab_display_name": "Fluid Mechanics Lab",
   "deployLab": true,
   "phase": 2,
   "collegeName": "NITS",
@@ -62,5 +62,5 @@
   },
   "exp_name": "Venturimeter",
   "exp_short_name": "venturimeter",
-  "version": "v0.1.0"
+  "version": "v0.2.0"
 }
