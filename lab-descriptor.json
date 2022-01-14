@@ -36,7 +36,7 @@
       "name": "Friction In pipes",
       "short-name": "friction-in-pipes",
       "repo": "https://github.com/virtual-labs/exp-friction-in-pipes-nitk",
-      "tag": "v0.0.1",
+      "tag": "v0.0.2",
       "deploy": true
     },
     {
@@ -62,5 +62,5 @@
   },
   "exp_name": "Venturimeter",
   "exp_short_name": "venturimeter",
-  "version": "v0.6.0"
+  "version": "v0.7.0"
 }
