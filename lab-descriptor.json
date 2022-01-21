@@ -49,16 +49,16 @@
   ],
   "targetAudience": {
     "UG": [
-      "This course is primarily for Sophomore in Civil or Mechanical or related engineering field."
+      "B.E / B.Tech in Civil Engineering or Mechanical Engineering","Diploma in Civil Engineering or Mechanical Engineering"
     ],
     "PG": [
-      "This course is primarily for students pursuing a Bachelor's program in Civil or Mechanical or related engineering field."
+      "M.Tech / MS in Water Resource Engineering or Environmental Engineering or Coastal Engineering"
     ]
   },
   "objective": "The main objective of the lab is to understand the behavior of fluids under various forces at different atmospheric conditions and to determine the various fluid flow parameters in pipes and open channels.",
   "courseAlignment": {
-    "description": "Following are the courses in which one can come across the theory connected to the experiments in this lab",
-    "universities": ["Fluid Mechanics", "Hydraulics", "Fluid Machinery"]
+    "description": "Following are the courses in which one can come across the theory connected to the experiments in this lab : Fluid Mechanics -",
+    "universities": ["National Institute of Technology Karnataka Surathkal", "Visvesvaraya Technological University", "Anna University","Vellore Institute of Technology","Applied Hydraulics - Visvesvaraya Technological University","Fluid Mechanics -Ⅰ - Goa University, Jadavpur University","Fluid Mechanics -Ⅱ - Goa University, Jadavpur University","Hydraulic Engineering Laboratory - Anna University","Fluid Mechanics Laboratory - Visvesvaraya Technological University","Applied Mechanics Lab - Jadavpur university"]
   },
   "exp_name": "Venturimeter",
   "exp_short_name": "venturimeter",
