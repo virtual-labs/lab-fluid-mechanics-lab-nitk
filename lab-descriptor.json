@@ -1,7 +1,8 @@
 {
   "broadArea": {
     "name": "Civil Engineering",
-    "link": "https://www.vlab.co.in/broad-area-civil-engineering"
+    "link": "https://www.vlab.co.in/broad-area-civil-engineering",
+    "code": "CIVIL"
   },
   "lab": "Fluid Mechanics",
   "lab_display_name": "Fluid Mechanics Lab",
@@ -71,8 +72,5 @@
       "Fluid Mechanics Laboratory - Visvesvaraya Technological University",
       "Applied Mechanics Lab - Jadavpur university"
     ]
-  },
-  "exp_name": "Venturimeter",
-  "exp_short_name": "venturimeter",
-  "version": "v0.15.0"
+  }
 }
